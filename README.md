@@ -1,7 +1,7 @@
 # Hi, I'm Anurag 👋  
 
 I am a **Brand Designer & Art Director** who also builds tools with curiosity.  
-Most of my coding work comes from experimenting with **tutorials, AI, and documentation** — not as a developer by trade, but as a learner who likes to make things work.  
+Most of my coding work comes from experimenting with **tutorials, AI, and documentation**; not as a developer by trade, but as a learner who likes to make things work.  
 
 All the repositories here are **free to use, modify, and distribute**.  
 
